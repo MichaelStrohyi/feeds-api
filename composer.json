@@ -1,6 +1,6 @@
 {
     "name": "uspc/feeds-connector",
-    "description": "API for remote feeds access.\"",
+    "description": "API for remote feeds access.",
     "require": {
         "php": ">=5.4.0",
         "twig/twig": "~1.0"
